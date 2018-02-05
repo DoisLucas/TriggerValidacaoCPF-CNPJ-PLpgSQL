@@ -8,8 +8,6 @@
 > realizando a validação dos digitos verificadores, caso não passe na
 > verificação a operação é abortada, lançando uma exceção.
 
-## **CÓDIGOS:**
-
 **TABELA E TRIGGER (SQL):**
 
 
