@@ -1,5 +1,6 @@
 ## VALIDAÇÃO CPF E CNPJ (PLpgSQL)
 
+
 **SOBRE:**
 
 > Procedure que retorna uma Trigger que é disparada ao inserir um novo
