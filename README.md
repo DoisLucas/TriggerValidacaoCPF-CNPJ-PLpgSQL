@@ -1,13 +1,5 @@
 ## VALIDAÇÃO CPF E CNPJ (PLpgSQL)
 
-
-
-![GitHub issue age](https://img.shields.io/github/issues/detail/age/badges/shields/979.svg) 
-![Github file size](https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg)
-[![Coverage Status](https://coveralls.io/repos/github/DoisLucas/TXTsToBD/badge.svg?branch=master)](https://coveralls.io/github/DoisLucas/TXTsToBD?branch=master)
-
-
-
 **SOBRE:**
 
 > Procedure que retorna uma Trigger que é disparada ao inserir um novo
